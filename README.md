@@ -10,7 +10,7 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
+| Jhemily Albuquerque | 2421683 | jhemilyalbuquerque|
 |  |  |  |
 |  |  |  |
 |  |  |  |
